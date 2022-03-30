@@ -1,0 +1,21 @@
+/*  Atividade 2 - Rafaela Dias (SIS) */
+
+.div3{
+    background-color: rgb(160, 11, 212);
+    height: 250px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.div4{
+    background-color: #F6407D;
+    width: 250px;
+    height: 100%;
+    border: dotted #F5200D 20px;
+}
+.div5{
+    background-color: #7fffd4;
+    height: 88%;
+    width: 30%;
+}
+

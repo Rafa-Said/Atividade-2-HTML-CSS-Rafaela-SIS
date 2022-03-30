@@ -1,0 +1,32 @@
+/*  Atividade 3 - Rafaela Dias (SIS) */
+
+body{
+    background-color: #C5C8DB;
+}
+.div6{
+    background-color: white;
+    height: 500px;
+    width: 250px;
+    border: black 10px dotted;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.div7{
+    background-color: yellow;
+    height: 50px;
+    width: 30%;
+}
+.div8{
+    background-color: rgb(245, 101, 0);
+    height: 100px;
+    width: 30%;
+}
+.div9{
+    background-color: rgb(43, 245, 14);
+    color: white;
+    size: 30px;
+    padding: 50px;
+    margin-left: 50px;
+    margin-top: 50px;
+}

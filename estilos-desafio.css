@@ -1,0 +1,71 @@
+/*  Atividade 4 - Desafio */
+
+.div10{
+    background-color: #915c5c;
+    border: 10px solid black;
+    width: 1000px;
+    height: 200px;
+    padding: 50px;
+}
+.div11{
+    background-color:white;
+    border: 10px solid #050758;
+    width: 950px;
+    height: 150px;
+    
+}
+h2{
+    color: #1e21ff;
+    text-align: center;
+    margin-top: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.div12{
+    margin-top: 50px;
+    margin-left: 15%;
+    background-color: #0000ff;
+    width: 1000px;
+    height: 30px;
+}
+.div13{
+    margin-left: 25%;
+    background-color: #800080;
+    width: 700px;
+    height: 30px;
+}
+.div14{
+    margin-left: 18%;
+    background-color: #008000;
+    width: 900px;
+    height: 30px;
+}
+.div15{
+    margin-left: 22%;
+    background-color: #ffff00;
+    width: 800px;
+    height: 30px;
+}
+.primeira{
+    margin-top: 180px;
+    background-color: #f00;
+    width: 550px;
+    height: 30px;
+    flex-direction: row;
+}
+.primeira .segunda{
+    background-color: #007c80;
+    margin-left: 100%;
+    width: 300px;
+    height: 30px;
+}
+.segunda .terceira{
+    background-color: #01ff00;
+    margin-left: 100%;
+    width: 550px;
+    height: 30px;
+}
+
+
+
+
+
